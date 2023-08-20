@@ -1,0 +1,2 @@
+# ChatApplication
+ A Chat Application Using SignalR is a real-time messaging platform that leverages the power of SignalR, a popular library in the world of web development, to provide seamless and instantaneous communication between users. SignalR is particularly well-suited for building interactive and dynamic applications that require real-time updates, making it an excellent choice for creating chat applications.

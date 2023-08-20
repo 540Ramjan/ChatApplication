@@ -1,0 +1,160 @@
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\bin\Debug\net7.0\appsettings.Development.json
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\bin\Debug\net7.0\appsettings.json
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\bin\Debug\net7.0\libman.json
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\bin\Debug\net7.0\ChatApplication.staticwebassets.runtime.json
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\bin\Debug\net7.0\ChatApplication.exe
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\bin\Debug\net7.0\ChatApplication.deps.json
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\bin\Debug\net7.0\ChatApplication.runtimeconfig.json
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\bin\Debug\net7.0\ChatApplication.dll
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\bin\Debug\net7.0\ChatApplication.pdb
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.AssemblyReference.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfoInputs.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfo.cs
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.CoreCompileInputs.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cs
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.ChatApplication.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.ChatApplication.props
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChatApplication.props
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChatApplication.props
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\staticwebassets.build.json
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\staticwebassets.development.json
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\scopedcss\bundle\ChatApplication.styles.css
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\scopedcss\projectbundle\ChatApplication.bundle.scp.css
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.dll
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\refint\ChatApplication.dll
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.pdb
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ChatApplication.genruntimeconfig.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN\ChatApplication\obj\Debug\net7.0\ref\ChatApplication.dll
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\appsettings.Development.json
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\appsettings.json
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\libman.json
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.staticwebassets.runtime.json
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.exe
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.deps.json
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.runtimeconfig.json
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.dll
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.pdb
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.AssemblyReference.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfoInputs.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfo.cs
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.CoreCompileInputs.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cs
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.ChatApplication.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.ChatApplication.props
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChatApplication.props
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChatApplication.props
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets.build.json
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets.development.json
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\scopedcss\bundle\ChatApplication.styles.css
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\scopedcss\projectbundle\ChatApplication.bundle.scp.css
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.dll
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\refint\ChatApplication.dll
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.pdb
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.genruntimeconfig.cache
+E:\Imran\SignalR\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ref\ChatApplication.dll
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\appsettings.Development.json
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\appsettings.json
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\libman.json
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.staticwebassets.runtime.json
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.exe
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.deps.json
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.runtimeconfig.json
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.dll
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.pdb
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.AssemblyReference.cache
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfoInputs.cache
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfo.cs
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.CoreCompileInputs.cache
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.MvcApplicationPartsAssemblyInfo.cache
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cache
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cs
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.ChatApplication.Microsoft.AspNetCore.StaticWebAssets.props
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.ChatApplication.props
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChatApplication.props
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChatApplication.props
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets.pack.json
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets.build.json
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets.development.json
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\scopedcss\bundle\ChatApplication.styles.css
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\scopedcss\projectbundle\ChatApplication.bundle.scp.css
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.dll
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\refint\ChatApplication.dll
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.pdb
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.genruntimeconfig.cache
+F:\signal r\xm\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ref\ChatApplication.dll
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\appsettings.Development.json
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\appsettings.json
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\libman.json
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.staticwebassets.runtime.json
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.exe
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.deps.json
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.runtimeconfig.json
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.dll
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\bin\Debug\net7.0\ChatApplication.pdb
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.AssemblyReference.cache
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfoInputs.cache
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfo.cs
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.CoreCompileInputs.cache
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cache
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cs
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.ChatApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.ChatApplication.props
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChatApplication.props
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChatApplication.props
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets.build.json
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\staticwebassets.development.json
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\scopedcss\bundle\ChatApplication.styles.css
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\scopedcss\projectbundle\ChatApplication.bundle.scp.css
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.dll
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\refint\ChatApplication.dll
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.pdb
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ChatApplication.genruntimeconfig.cache
+D:\ChatApplicationSLN - Copy\ChatApplicationSLN - Copy\ChatApplication\obj\Debug\net7.0\ref\ChatApplication.dll
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\bin\Debug\net7.0\appsettings.json
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\bin\Debug\net7.0\libman.json
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\bin\Debug\net7.0\ChatApplication.staticwebassets.runtime.json
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\bin\Debug\net7.0\ChatApplication.exe
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\bin\Debug\net7.0\ChatApplication.deps.json
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\bin\Debug\net7.0\ChatApplication.runtimeconfig.json
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\bin\Debug\net7.0\ChatApplication.dll
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\bin\Debug\net7.0\ChatApplication.pdb
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.AssemblyReference.cache
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfoInputs.cache
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.AssemblyInfo.cs
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cache
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.RazorAssemblyInfo.cs
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.ChatApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.ChatApplication.props
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ChatApplication.props
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ChatApplication.props
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\scopedcss\bundle\ChatApplication.styles.css
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\scopedcss\projectbundle\ChatApplication.bundle.scp.css
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.dll
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\refint\ChatApplication.dll
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.pdb
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ChatApplication.genruntimeconfig.cache
+C:\Users\Jobayer\OneDrive\Desktop\ChatApplication\ChatApplication\obj\Debug\net7.0\ref\ChatApplication.dll
